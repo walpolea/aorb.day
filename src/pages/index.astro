@@ -6,6 +6,9 @@ console.log( Astro.url.searchParams.get('day') );
 const day = Astro.url.searchParams.get('day');
 
 const today = day ? new Date(`${day}:12:00:00`) : new Date();
+today.setHours( today.getHours() - 7 );
+
+
 const formattedDate = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
 
 const {aorb, readableDate} = aorbData[formattedDate] ?? {};
@@ -25,7 +28,6 @@ const {aorb, readableDate} = aorbData[formattedDate] ?? {};
 			<h1>Is it an A or B day?</h1>
 			<p class="day" class:list={[aorb]}>{aorb ? aorb : "No!"}</p>
 		</div>
-		{ today.getHours() }
 	</body>
 </html>
 
