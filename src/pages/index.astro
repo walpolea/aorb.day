@@ -25,6 +25,7 @@ const {aorb, readableDate} = aorbData[formattedDate] ?? {};
 			<h1>Is it an A or B day?</h1>
 			<p class="day" class:list={[aorb]}>{aorb ? aorb : "No!"}</p>
 		</div>
+		{ today.getHours() }
 	</body>
 </html>
 
