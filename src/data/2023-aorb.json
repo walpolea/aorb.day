@@ -1,0 +1,722 @@
+{
+    "2023-08-10": {
+        "aorb": "A",
+        "readableDate": "August 10, 2023"
+    },
+    "2023-08-11": {
+        "aorb": "B",
+        "readableDate": "August 11, 2023"
+    },
+    "2023-08-14": {
+        "aorb": "A",
+        "readableDate": "August 14, 2023"
+    },
+    "2023-08-15": {
+        "aorb": "B",
+        "readableDate": "August 15, 2023"
+    },
+    "2023-08-16": {
+        "aorb": "A",
+        "readableDate": "August 16, 2023"
+    },
+    "2023-08-17": {
+        "aorb": "B",
+        "readableDate": "August 17, 2023"
+    },
+    "2023-08-18": {
+        "aorb": "A",
+        "readableDate": "August 18, 2023"
+    },
+    "2023-08-21": {
+        "aorb": "B",
+        "readableDate": "August 21, 2023"
+    },
+    "2023-08-22": {
+        "aorb": "A",
+        "readableDate": "August 22, 2023"
+    },
+    "2023-08-23": {
+        "aorb": "B",
+        "readableDate": "August 23, 2023"
+    },
+    "2023-08-24": {
+        "aorb": "A",
+        "readableDate": "August 24, 2023"
+    },
+    "2023-08-25": {
+        "aorb": "B",
+        "readableDate": "August 25, 2023"
+    },
+    "2023-08-28": {
+        "aorb": "A",
+        "readableDate": "August 28, 2023"
+    },
+    "2023-08-29": {
+        "aorb": "B",
+        "readableDate": "August 29, 2023"
+    },
+    "2023-08-30": {
+        "aorb": "A",
+        "readableDate": "August 30, 2023"
+    },
+    "2023-08-31": {
+        "aorb": "B",
+        "readableDate": "August 31, 2023"
+    },
+    "2023-09-01": {
+        "aorb": "A",
+        "readableDate": "September 1, 2023"
+    },
+    "2023-09-05": {
+        "aorb": "B",
+        "readableDate": "September 5, 2023"
+    },
+    "2023-09-06": {
+        "aorb": "A",
+        "readableDate": "September 6, 2023"
+    },
+    "2023-09-07": {
+        "aorb": "B",
+        "readableDate": "September 7, 2023"
+    },
+    "2023-09-08": {
+        "aorb": "A",
+        "readableDate": "September 8, 2023"
+    },
+    "2023-09-11": {
+        "aorb": "B",
+        "readableDate": "September 11, 2023"
+    },
+    "2023-09-12": {
+        "aorb": "A",
+        "readableDate": "September 12, 2023"
+    },
+    "2023-09-13": {
+        "aorb": "B",
+        "readableDate": "September 13, 2023"
+    },
+    "2023-09-14": {
+        "aorb": "A",
+        "readableDate": "September 14, 2023"
+    },
+    "2023-09-15": {
+        "aorb": "B",
+        "readableDate": "September 15, 2023"
+    },
+    "2023-09-18": {
+        "aorb": "A",
+        "readableDate": "September 18, 2023"
+    },
+    "2023-09-19": {
+        "aorb": "B",
+        "readableDate": "September 19, 2023"
+    },
+    "2023-09-20": {
+        "aorb": "A",
+        "readableDate": "September 20, 2023"
+    },
+    "2023-09-21": {
+        "aorb": "B",
+        "readableDate": "September 21, 2023"
+    },
+    "2023-09-22": {
+        "aorb": "A",
+        "readableDate": "September 22, 2023"
+    },
+    "2023-09-25": {
+        "aorb": "B",
+        "readableDate": "September 25, 2023"
+    },
+    "2023-09-26": {
+        "aorb": "A",
+        "readableDate": "September 26, 2023"
+    },
+    "2023-09-27": {
+        "aorb": "B",
+        "readableDate": "September 27, 2023"
+    },
+    "2023-09-28": {
+        "aorb": "A",
+        "readableDate": "September 28, 2023"
+    },
+    "2023-09-29": {
+        "aorb": "B",
+        "readableDate": "September 29, 2023"
+    },
+    "2023-10-16": {
+        "aorb": "A",
+        "readableDate": "October 16, 2023"
+    },
+    "2023-10-17": {
+        "aorb": "B",
+        "readableDate": "October 17, 2023"
+    },
+    "2023-10-18": {
+        "aorb": "A",
+        "readableDate": "October 18, 2023"
+    },
+    "2023-10-19": {
+        "aorb": "B",
+        "readableDate": "October 19, 2023"
+    },
+    "2023-10-20": {
+        "aorb": "A",
+        "readableDate": "October 20, 2023"
+    },
+    "2023-10-23": {
+        "aorb": "B",
+        "readableDate": "October 23, 2023"
+    },
+    "2023-10-24": {
+        "aorb": "A",
+        "readableDate": "October 24, 2023"
+    },
+    "2023-10-25": {
+        "aorb": "B",
+        "readableDate": "October 25, 2023"
+    },
+    "2023-10-26": {
+        "aorb": "A",
+        "readableDate": "October 26, 2023"
+    },
+    "2023-10-27": {
+        "aorb": "B",
+        "readableDate": "October 27, 2023"
+    },
+    "2023-10-30": {
+        "aorb": "A",
+        "readableDate": "October 30, 2023"
+    },
+    "2023-10-31": {
+        "aorb": "B",
+        "readableDate": "October 31, 2023"
+    },
+    "2023-11-01": {
+        "aorb": "A",
+        "readableDate": "November 1, 2023"
+    },
+    "2023-11-02": {
+        "aorb": "B",
+        "readableDate": "November 2, 2023"
+    },
+    "2023-11-03": {
+        "aorb": "A",
+        "readableDate": "November 3, 2023"
+    },
+    "2023-11-06": {
+        "aorb": "B",
+        "readableDate": "November 6, 2023"
+    },
+    "2023-11-07": {
+        "aorb": "A",
+        "readableDate": "November 7, 2023"
+    },
+    "2023-11-08": {
+        "aorb": "B",
+        "readableDate": "November 8, 2023"
+    },
+    "2023-11-09": {
+        "aorb": "A",
+        "readableDate": "November 9, 2023"
+    },
+    "2023-11-13": {
+        "aorb": "B",
+        "readableDate": "November 13, 2023"
+    },
+    "2023-11-14": {
+        "aorb": "A",
+        "readableDate": "November 14, 2023"
+    },
+    "2023-11-15": {
+        "aorb": "B",
+        "readableDate": "November 15, 2023"
+    },
+    "2023-11-16": {
+        "aorb": "A",
+        "readableDate": "November 16, 2023"
+    },
+    "2023-11-17": {
+        "aorb": "B",
+        "readableDate": "November 17, 2023"
+    },
+    "2023-11-27": {
+        "aorb": "A",
+        "readableDate": "November 27, 2023"
+    },
+    "2023-11-28": {
+        "aorb": "B",
+        "readableDate": "November 28, 2023"
+    },
+    "2023-11-29": {
+        "aorb": "A",
+        "readableDate": "November 29, 2023"
+    },
+    "2023-11-30": {
+        "aorb": "B",
+        "readableDate": "November 30, 2023"
+    },
+    "2023-12-01": {
+        "aorb": "A",
+        "readableDate": "December 1, 2023"
+    },
+    "2023-12-04": {
+        "aorb": "B",
+        "readableDate": "December 4, 2023"
+    },
+    "2023-12-05": {
+        "aorb": "A",
+        "readableDate": "December 5, 2023"
+    },
+    "2023-12-06": {
+        "aorb": "B",
+        "readableDate": "December 6, 2023"
+    },
+    "2023-12-07": {
+        "aorb": "A",
+        "readableDate": "December 7, 2023"
+    },
+    "2023-12-08": {
+        "aorb": "B",
+        "readableDate": "December 8, 2023"
+    },
+    "2023-12-11": {
+        "aorb": "A",
+        "readableDate": "December 11, 2023"
+    },
+    "2023-12-12": {
+        "aorb": "B",
+        "readableDate": "December 12, 2023"
+    },
+    "2023-12-13": {
+        "aorb": "A",
+        "readableDate": "December 13, 2023"
+    },
+    "2023-12-14": {
+        "aorb": "B",
+        "readableDate": "December 14, 2023"
+    },
+    "2023-12-15": {
+        "aorb": "A",
+        "readableDate": "December 15, 2023"
+    },
+    "2023-12-18": {
+        "aorb": "B",
+        "readableDate": "December 18, 2023"
+    },
+    "2023-12-19": {
+        "aorb": "A",
+        "readableDate": "December 19, 2023"
+    },
+    "2023-12-20": {
+        "aorb": "B",
+        "readableDate": "December 20, 2023"
+    },
+    "2023-12-21": {
+        "aorb": "A",
+        "readableDate": "December 21, 2023"
+    },
+    "2024-01-08": {
+        "aorb": "B",
+        "readableDate": "January 8, 2024"
+    },
+    "2024-01-09": {
+        "aorb": "A",
+        "readableDate": "January 9, 2024"
+    },
+    "2024-01-10": {
+        "aorb": "B",
+        "readableDate": "January 10, 2024"
+    },
+    "2024-01-11": {
+        "aorb": "A",
+        "readableDate": "January 11, 2024"
+    },
+    "2024-01-12": {
+        "aorb": "B",
+        "readableDate": "January 12, 2024"
+    },
+    "2024-01-16": {
+        "aorb": "A",
+        "readableDate": "January 16, 2024"
+    },
+    "2024-01-17": {
+        "aorb": "B",
+        "readableDate": "January 17, 2024"
+    },
+    "2024-01-18": {
+        "aorb": "A",
+        "readableDate": "January 18, 2024"
+    },
+    "2024-01-19": {
+        "aorb": "B",
+        "readableDate": "January 19, 2024"
+    },
+    "2024-01-22": {
+        "aorb": "A",
+        "readableDate": "January 22, 2024"
+    },
+    "2024-01-23": {
+        "aorb": "B",
+        "readableDate": "January 23, 2024"
+    },
+    "2024-01-24": {
+        "aorb": "A",
+        "readableDate": "January 24, 2024"
+    },
+    "2024-01-25": {
+        "aorb": "B",
+        "readableDate": "January 25, 2024"
+    },
+    "2024-01-26": {
+        "aorb": "A",
+        "readableDate": "January 26, 2024"
+    },
+    "2024-01-29": {
+        "aorb": "B",
+        "readableDate": "January 29, 2024"
+    },
+    "2024-01-30": {
+        "aorb": "A",
+        "readableDate": "January 30, 2024"
+    },
+    "2024-01-31": {
+        "aorb": "B",
+        "readableDate": "January 31, 2024"
+    },
+    "2024-02-01": {
+        "aorb": "A",
+        "readableDate": "February 1, 2024"
+    },
+    "2024-02-02": {
+        "aorb": "B",
+        "readableDate": "February 2, 2024"
+    },
+    "2024-02-05": {
+        "aorb": "A",
+        "readableDate": "February 5, 2024"
+    },
+    "2024-02-06": {
+        "aorb": "B",
+        "readableDate": "February 6, 2024"
+    },
+    "2024-02-07": {
+        "aorb": "A",
+        "readableDate": "February 7, 2024"
+    },
+    "2024-02-08": {
+        "aorb": "B",
+        "readableDate": "February 8, 2024"
+    },
+    "2024-02-09": {
+        "aorb": "A",
+        "readableDate": "February 9, 2024"
+    },
+    "2024-02-13": {
+        "aorb": "B",
+        "readableDate": "February 13, 2024"
+    },
+    "2024-02-14": {
+        "aorb": "A",
+        "readableDate": "February 14, 2024"
+    },
+    "2024-02-15": {
+        "aorb": "B",
+        "readableDate": "February 15, 2024"
+    },
+    "2024-02-16": {
+        "aorb": "A",
+        "readableDate": "February 16, 2024"
+    },
+    "2024-02-20": {
+        "aorb": "B",
+        "readableDate": "February 20, 2024"
+    },
+    "2024-02-21": {
+        "aorb": "A",
+        "readableDate": "February 21, 2024"
+    },
+    "2024-02-22": {
+        "aorb": "B",
+        "readableDate": "February 22, 2024"
+    },
+    "2024-02-23": {
+        "aorb": "A",
+        "readableDate": "February 23, 2024"
+    },
+    "2024-02-26": {
+        "aorb": "B",
+        "readableDate": "February 26, 2024"
+    },
+    "2024-02-27": {
+        "aorb": "A",
+        "readableDate": "February 27, 2024"
+    },
+    "2024-02-28": {
+        "aorb": "B",
+        "readableDate": "February 28, 2024"
+    },
+    "2024-02-29": {
+        "aorb": "A",
+        "readableDate": "February 29, 2024"
+    },
+    "2024-03-01": {
+        "aorb": "B",
+        "readableDate": "March 1, 2024"
+    },
+    "2024-03-04": {
+        "aorb": "A",
+        "readableDate": "March 4, 2024"
+    },
+    "2024-03-05": {
+        "aorb": "B",
+        "readableDate": "March 5, 2024"
+    },
+    "2024-03-06": {
+        "aorb": "A",
+        "readableDate": "March 6, 2024"
+    },
+    "2024-03-07": {
+        "aorb": "B",
+        "readableDate": "March 7, 2024"
+    },
+    "2024-03-08": {
+        "aorb": "A",
+        "readableDate": "March 8, 2024"
+    },
+    "2024-03-11": {
+        "aorb": "B",
+        "readableDate": "March 11, 2024"
+    },
+    "2024-03-12": {
+        "aorb": "A",
+        "readableDate": "March 12, 2024"
+    },
+    "2024-03-13": {
+        "aorb": "B",
+        "readableDate": "March 13, 2024"
+    },
+    "2024-03-14": {
+        "aorb": "A",
+        "readableDate": "March 14, 2024"
+    },
+    "2024-03-15": {
+        "aorb": "B",
+        "readableDate": "March 15, 2024"
+    },
+    "2024-03-18": {
+        "aorb": "A",
+        "readableDate": "March 18, 2024"
+    },
+    "2024-03-19": {
+        "aorb": "B",
+        "readableDate": "March 19, 2024"
+    },
+    "2024-03-20": {
+        "aorb": "A",
+        "readableDate": "March 20, 2024"
+    },
+    "2024-03-21": {
+        "aorb": "B",
+        "readableDate": "March 21, 2024"
+    },
+    "2024-03-22": {
+        "aorb": "A",
+        "readableDate": "March 22, 2024"
+    },
+    "2024-04-08": {
+        "aorb": "B",
+        "readableDate": "April 8, 2024"
+    },
+    "2024-04-09": {
+        "aorb": "A",
+        "readableDate": "April 9, 2024"
+    },
+    "2024-04-10": {
+        "aorb": "B",
+        "readableDate": "April 10, 2024"
+    },
+    "2024-04-11": {
+        "aorb": "A",
+        "readableDate": "April 11, 2024"
+    },
+    "2024-04-12": {
+        "aorb": "B",
+        "readableDate": "April 12, 2024"
+    },
+    "2024-04-15": {
+        "aorb": "A",
+        "readableDate": "April 15, 2024"
+    },
+    "2024-04-16": {
+        "aorb": "B",
+        "readableDate": "April 16, 2024"
+    },
+    "2024-04-17": {
+        "aorb": "A",
+        "readableDate": "April 17, 2024"
+    },
+    "2024-04-18": {
+        "aorb": "B",
+        "readableDate": "April 18, 2024"
+    },
+    "2024-04-19": {
+        "aorb": "A",
+        "readableDate": "April 19, 2024"
+    },
+    "2024-04-22": {
+        "aorb": "B",
+        "readableDate": "April 22, 2024"
+    },
+    "2024-04-23": {
+        "aorb": "A",
+        "readableDate": "April 23, 2024"
+    },
+    "2024-04-24": {
+        "aorb": "B",
+        "readableDate": "April 24, 2024"
+    },
+    "2024-04-25": {
+        "aorb": "A",
+        "readableDate": "April 25, 2024"
+    },
+    "2024-04-26": {
+        "aorb": "B",
+        "readableDate": "April 26, 2024"
+    },
+    "2024-04-29": {
+        "aorb": "A",
+        "readableDate": "April 29, 2024"
+    },
+    "2024-04-30": {
+        "aorb": "B",
+        "readableDate": "April 30, 2024"
+    },
+    "2024-05-01": {
+        "aorb": "A",
+        "readableDate": "May 1, 2024"
+    },
+    "2024-05-02": {
+        "aorb": "B",
+        "readableDate": "May 2, 2024"
+    },
+    "2024-05-03": {
+        "aorb": "A",
+        "readableDate": "May 3, 2024"
+    },
+    "2024-05-06": {
+        "aorb": "B",
+        "readableDate": "May 6, 2024"
+    },
+    "2024-05-07": {
+        "aorb": "A",
+        "readableDate": "May 7, 2024"
+    },
+    "2024-05-08": {
+        "aorb": "B",
+        "readableDate": "May 8, 2024"
+    },
+    "2024-05-09": {
+        "aorb": "A",
+        "readableDate": "May 9, 2024"
+    },
+    "2024-05-10": {
+        "aorb": "B",
+        "readableDate": "May 10, 2024"
+    },
+    "2024-05-13": {
+        "aorb": "A",
+        "readableDate": "May 13, 2024"
+    },
+    "2024-05-14": {
+        "aorb": "B",
+        "readableDate": "May 14, 2024"
+    },
+    "2024-05-15": {
+        "aorb": "A",
+        "readableDate": "May 15, 2024"
+    },
+    "2024-05-16": {
+        "aorb": "B",
+        "readableDate": "May 16, 2024"
+    },
+    "2024-05-17": {
+        "aorb": "A",
+        "readableDate": "May 17, 2024"
+    },
+    "2024-05-20": {
+        "aorb": "B",
+        "readableDate": "May 20, 2024"
+    },
+    "2024-05-21": {
+        "aorb": "A",
+        "readableDate": "May 21, 2024"
+    },
+    "2024-05-22": {
+        "aorb": "B",
+        "readableDate": "May 22, 2024"
+    },
+    "2024-05-23": {
+        "aorb": "A",
+        "readableDate": "May 23, 2024"
+    },
+    "2024-05-24": {
+        "aorb": "B",
+        "readableDate": "May 24, 2024"
+    },
+    "2024-05-28": {
+        "aorb": "A",
+        "readableDate": "May 28, 2024"
+    },
+    "2024-05-29": {
+        "aorb": "B",
+        "readableDate": "May 29, 2024"
+    },
+    "2024-05-30": {
+        "aorb": "A",
+        "readableDate": "May 30, 2024"
+    },
+    "2024-05-31": {
+        "aorb": "B",
+        "readableDate": "May 31, 2024"
+    },
+    "2024-06-03": {
+        "aorb": "A",
+        "readableDate": "June 3, 2024"
+    },
+    "2024-06-04": {
+        "aorb": "B",
+        "readableDate": "June 4, 2024"
+    },
+    "2024-06-05": {
+        "aorb": "A",
+        "readableDate": "June 5, 2024"
+    },
+    "2024-06-06": {
+        "aorb": "B",
+        "readableDate": "June 6, 2024"
+    },
+    "2024-06-07": {
+        "aorb": "A",
+        "readableDate": "June 7, 2024"
+    },
+    "2024-06-10": {
+        "aorb": "B",
+        "readableDate": "June 10, 2024"
+    },
+    "2024-06-11": {
+        "aorb": "A",
+        "readableDate": "June 11, 2024"
+    },
+    "2024-06-12": {
+        "aorb": "B",
+        "readableDate": "June 12, 2024"
+    },
+    "2024-06-13": {
+        "aorb": "A",
+        "readableDate": "June 13, 2024"
+    },
+    "2024-06-14": {
+        "aorb": "B",
+        "readableDate": "June 14, 2024"
+    }
+}

@@ -1,0 +1,65 @@
+---
+
+import aorbData from '../data/2023-aorb.json';
+
+console.log( Astro.url.searchParams.get('day') );
+const day = Astro.url.searchParams.get('day');
+
+const today = day ? new Date(`${day}:12:00:00`) : new Date();
+const formattedDate = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+
+const {aorb, readableDate} = aorbData[formattedDate] ?? {};
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>LMSV A or B Day</title>
+	</head>
+	<body>
+		<div class="content">
+			<p class="date">{aorb ? readableDate : formattedDate}</p>
+			<h1>Is it an A or B day?</h1>
+			<p class="day" class:list={[aorb]}>{aorb ? aorb : "No!"}</p>
+		</div>
+	</body>
+</html>
+
+<style>
+
+	body {
+		margin:0;
+		display:grid;
+		place-items:center;
+		font-family: Verdana, Geneva, Tahoma, sans-serif;
+		min-height:100vh;
+	}
+
+	p {
+		margin:0;
+	}
+
+	.content {
+		text-align:center;
+	}
+
+	.date {
+		font-size:3rem;
+	}
+
+	.day {
+		font-size: clamp( 3rem, 10rem + 15vw, 30rem);
+		line-height:0.8;
+	}
+
+	.day.A {
+		color:red;
+	}
+
+	.day.B {
+		color:blue;
+	}
+</style>
