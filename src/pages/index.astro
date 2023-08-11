@@ -6,21 +6,21 @@ console.log( Astro.url.searchParams.get('day') );
 const day = Astro.url.searchParams.get('day');
 
 const today = day ? new Date(`${day}:12:00:00`) : new Date();
-today.setHours( today.getHours() - 7 );
-
+today.setHours( today.getHours() - 7 ); //account for server being +7 hours to PST
 
 const formattedDate = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
-
 const {aorb, readableDate} = aorbData[formattedDate] ?? {};
+const favicon = aorb ? aorb === "A" ? "/favicona.svg" : "/faviconb.svg" : "/faviconx.svg"
+
 ---
 
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" type="image/svg+xml" href={favicon} />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>LMSV A or B Day</title>
+		<title>LMSV A or B Day?</title>
 	</head>
 	<body>
 		<div class="content">
@@ -56,6 +56,7 @@ const {aorb, readableDate} = aorbData[formattedDate] ?? {};
 	.day {
 		font-size: clamp( 3rem, 10rem + 15vw, 30rem);
 		line-height:0.8;
+		font-weight:bold;
 	}
 
 	.day.A {
